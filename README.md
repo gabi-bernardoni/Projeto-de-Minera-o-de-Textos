@@ -1,1 +1,1 @@
-# Projeto-de-Minera-o-de-Textos
+# Projeto-de-Mineração-de-Textos
